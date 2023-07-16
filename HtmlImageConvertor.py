@@ -46,7 +46,7 @@ def getDeskScreenshot(driver,url):
 
 
 
-url = 'file:///F:/WEBDEV/Issues%20Detector%20Sherlock/input/emailTempTest.html'
+url = 'open the html and paster the URL of the live HTML here'
 options = Options()
 options.add_argument('--headless')
 options.add_argument('--start-maximized')
